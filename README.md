@@ -10,6 +10,6 @@ git clone https://github.com/Frostday/Recipes-App.git
 
 ### Preview
 
-| ![](assets/images/1.jpeg) | ![](assets/images/2.jpeg) | ![](assets/images/3.jpeg) |
-|:--------------------------|:--------------------------|:--------------------------|
-| ![](assets/images/4.jpeg) | ![](assets/images/5.jpeg) | |
+| ![](assets/images/1.jpeg) | ![](assets/images/2.jpeg) |
+|:--------------------------|:--------------------------|
+| ![](assets/images/4.jpeg) | ![](assets/images/5.jpeg) |
