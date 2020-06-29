@@ -7,6 +7,11 @@ An app which contains recipes on how to cook several dishes from many different 
 ```
 git clone https://github.com/Frostday/Recipes-App.git
 ```
+* In the same directory run the following commands(considering you have flutter installed and an android device connected)
+```
+flutter packages get
+flutter run
+```
 
 ### Preview
 
